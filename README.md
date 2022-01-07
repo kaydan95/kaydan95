@@ -1,7 +1,7 @@
 # Hieee - 🙋🏻‍♀️ README!
 
 
-| To me, Learning new language is always amazing thing to do. I know this is kinda different from what we normally perceive as “Language”, and this thought was enough to make me hesitate to jump into it, but I needed to give it a shot. And now, fortunately, I'm obsessed with all these studies and process! Still Learning, Still Struggling(of course), But Still loving it🧡.| <img src="https://user-images.githubusercontent.com/85853145/148543708-0d42e7c3-3dfa-4396-9191-7993c8cd0b02.jpeg" width="530" height="110"> |
+| To me, Learning new language is always amazing thing to do. I know this is kinda different from what we normally perceive as “Language”, and this thought was enough to make me hesitate to jump into it, but I needed to give it a shot. And now, fortunately, I'm obsessed with all these studies and process! Still Learning, Still Struggling(of course), But Still loving it🧡.| <img src="https://user-images.githubusercontent.com/85853145/148555246-01d0329d-f4ed-47e5-bb64-a442e664c6a6.png" width="650" height="150"> |
 | ------ | ------ |
 
 
