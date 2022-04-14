@@ -1,7 +1,7 @@
 # Hiieeeee - 🙋🏻‍♀️ Nice to see you!
 
 
-| To me, Learning new language is always amazing thing to do. I know this is kinda different from what we normally perceive as “Language”, and this thought was enough to make me hesitate to jump into it. But I needed to give it a shot. And now, fortunately, I'm obsessed with all these studies, new languages and all the process of becoming front-end developer! Still Learning, Still Struggling(of course), But Still loving it🧡| <img src="https://user-images.githubusercontent.com/85853145/148555246-01d0329d-f4ed-47e5-bb64-a442e664c6a6.png" width="850" height="150"> |
+| To me, Learning new language is always amazing thing to do. I know this is kinda different from what we normally perceive as “Language”, and this thought was enough to make me hesitate to jump into it. But I needed to give it a shot. And now, fortunately, I'm obsessed with all these studies, new languages and all the process of becoming front-end developer! Still Learning, Still Struggling(of course), But Still loving it🧡| <img src="https://user-images.githubusercontent.com/85853145/163388236-49600bb7-a50a-42f7-9a4e-a8e3d8fed8fd.png" width="850" height="200"> |
 | ------ | ------ |
 
 
