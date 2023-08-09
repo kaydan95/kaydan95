@@ -17,6 +17,3 @@
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"> 
 
   
-### :bar_chart: state
-![kaydan95's github stats](https://github-readme-stats.vercel.app/api?username=kaydan95&theme=tokyonight&show_icons=true)
-<!-- [![kaydan95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaydan95&show_icons=true&hide_border=true&theme=discord_old_blurple)](https://github.com/kaydan95) -->
